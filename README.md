@@ -17,8 +17,9 @@ Este é um projeto de exemplo para demonstrar como configurar e utilizar Vite e 
 
 ### Clonando o Repositório
 
-```bash
+bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
 cd seu-repositorio
 
 ### Instalando as Dependências
